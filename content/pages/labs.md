@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: b22eac7a-52c9-f8fa-4222-a9b565dbd459
 ---
@@ -78,7 +81,7 @@ Lab 1
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit11_220s09_lab01))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 DATA\_LAB ([ZIP]({{< baseurl >}}/resources/statadata)) (The Zip file contains 3 .raw files, 1 .do file, 20 .dta files, 1 .fix file, 2 .csv files, and 2 .txt files)
 {{< tdclose >}}
 

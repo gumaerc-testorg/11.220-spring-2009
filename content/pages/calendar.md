@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: fe4cc7f8-fe61-00be-0f4f-46f969f30e03
 ---
@@ -279,7 +281,7 @@ Statistical software; data management
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Cross-tabulations; χ2 tests
+Cross-tabulations; χ{{< sup "2" >}} tests
 {{< tdclose >}}
 {{< tdopen >}}
  

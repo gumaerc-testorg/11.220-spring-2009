@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 249b5b6c-21cb-5878-7b1a-444393664fc2
 ---
@@ -366,7 +369,7 @@ Zeisel, H. _Say It With Figures_. 6th ed. Harper & Row, 6th edition, 1985, chapt
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Cross-tabulations; χ2 tests
+Cross-tabulations; χ{{< sup "2" >}} tests
 {{< tdclose >}}
 {{< tdopen >}}
 

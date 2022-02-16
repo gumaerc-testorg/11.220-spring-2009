@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b80ec2bf-8990-1d35-6f77-a856e96846fa
 ---
@@ -60,7 +63,7 @@ Exploratory data analysis and visualization ([PDF]({{< baseurl >}}/resources/mit
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Cross-tabulations; χ2 tests ([PDF]({{< baseurl >}}/resources/mit11_220s09_lec14))
+Cross-tabulations; χ{{< sup "2" >}} tests ([PDF]({{< baseurl >}}/resources/mit11_220s09_lec14))
 {{< tdclose >}}
 
 {{< trclose >}}
