@@ -117,9 +117,9 @@ Lab 4
 {{< tdopen >}}
 
 
-nbawage ([DTA]({{< baseurl >}}/resources/nbawage))
+nbawage ([DTA]({{< baseurl >}}/resources/nbawage-1))
 
-nbawage\_dofile ([DO](/courses/urban-studies-and-planning/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/labs/nbawage.do))
+nbawage\_dofile ([DO]({{< baseurl >}}/resources/nbawage))
 
 
 {{< tdclose >}}

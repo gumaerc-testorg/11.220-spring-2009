@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b22eac7a-52c9-f8fa-4222-a9b565dbd459
 resourcetype: Other
 title: hedonic
 uid: 305e6940-ab74-566b-234e-dbf9b5f6ea0a

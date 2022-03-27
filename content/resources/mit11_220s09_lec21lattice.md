@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b80ec2bf-8990-1d35-6f77-a856e96846fa
 resourcetype: Document
 title: Lattice plots
 uid: a29b7d66-8ec7-f04c-673b-bd44d43bdf43

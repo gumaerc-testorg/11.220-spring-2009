@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71f20ed6-c11c-2378-4c31-a4b30923f0b2
 resourcetype: Document
 title: 'Written Assignment #1: Operationalizing Planning Concepts'
 uid: f5d5a94c-247b-5e6a-8459-ded56b0d9680

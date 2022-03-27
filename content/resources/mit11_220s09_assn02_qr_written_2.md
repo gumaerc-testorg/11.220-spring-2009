@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71f20ed6-c11c-2378-4c31-a4b30923f0b2
 resourcetype: Document
 title: 'Written Assignment #2: Critical Reading of  Research Results'
 uid: 7da0408d-8a82-e3e3-43df-609d2ec5a253

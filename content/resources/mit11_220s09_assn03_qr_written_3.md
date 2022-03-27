@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71f20ed6-c11c-2378-4c31-a4b30923f0b2
 resourcetype: Document
 title: 'Written Assignment #3: Data Analysis Exercise'
 uid: 4602a648-7358-51e8-0613-060386231f01
