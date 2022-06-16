@@ -1,9 +1,17 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course, information
+  on meeting times, requirements, grading, lectures recitation sections, and lab sections,
+  and notes on quantitative and qualitative methods, quantitative reasoning, knowledge,
+  and belief.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 60733cf3-3257-ffad-066e-e10ecd19ec84
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -132,4 +140,4 @@ In addition to the two "lectures" each week, the course includes a one-hour week
 Lab Sections
 ------------
 
-Four times throughout the semester you will have lab sections instead of recitation sections. This will give you the opportunity to become familiar with a statistical software package (either [Stata]({{< baseurl >}}/pages/labs#stata) or [R]({{< baseurl >}}/pages/labs#r)). We will use software to explore concepts and methods we covered in class a week or two earlier so you will already be familiar with the basics (and hopefully the introduction of the computers will illuminate your grasp of the fundamentals).
+Four times throughout the semester you will have lab sections instead of recitation sections. This will give you the opportunity to become familiar with a statistical software package (either {{% resource_link b22eac7a-52c9-f8fa-4222-a9b565dbd459 "Stata" "#stata" %}} or {{% resource_link b22eac7a-52c9-f8fa-4222-a9b565dbd459 "R" "#r" %}}). We will use software to explore concepts and methods we covered in class a week or two earlier so you will already be familiar with the basics (and hopefully the introduction of the computers will illuminate your grasp of the fundamentals).
