@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: This section provides the computer lab assignments of the course, supporting
+  files, and information on computers and software, Stata data analysis and statistical
+  software, the R programming language, and tutorials.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: b22eac7a-52c9-f8fa-4222-a9b565dbd459
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Computers and Software
@@ -16,7 +26,7 @@ In order to encourage and reward this resourcefulness, creativity, and skills fo
 Stata
 -----
 
-For the past couple years, the Department of Urban Studies and Planning has used Stata in this class (before that it was SPSS). Stata provides a good package to learn on without sacrificing the more powerful tools required by advanced users. Nearly everything can be done either through pull-down menus and dialog boxes (helpful for beginners) or through the command line (good for scripting and advanced users who care about setting different options). Graphics and output are good, import in generally straightforward (with a few quirks around missing values). The package is well-documented and well-supported, two real strengths for beginners. (For more information, visit ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Data Analysis and Statistical Software (PDF - 5.4MB)](http://www.stata.com/order/federal-supply-service/GS35F0108W-Rel15.pdf).)
+For the past couple years, the Department of Urban Studies and Planning has used Stata in this class (before that it was SPSS). Stata provides a good package to learn on without sacrificing the more powerful tools required by advanced users. Nearly everything can be done either through pull-down menus and dialog boxes (helpful for beginners) or through the command line (good for scripting and advanced users who care about setting different options). Graphics and output are good, import in generally straightforward (with a few quirks around missing values). The package is well-documented and well-supported, two real strengths for beginners. (For more information, visit [Data Analysis and Statistical Software (PDF - 5.4MB)](http://www.stata.com/order/federal-supply-service/GS35F0108W-Rel15.pdf).)
 
 If you decide to use Stata, you will probably want to look at the online documentation, as well as the manual it comes with (Stata Corporation. _Getting Started with Stata for Windows_. Stata Press, 2007). For a more comprehensive introduction, try:
 
@@ -76,10 +86,10 @@ SUPPORTING FILES
 Lab 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_220s09_lab01))
+({{% resource_link c46ef346-7b07-62b6-b6dc-6ad7b016c908 "PDF" %}})
 {{< tdclose >}}
-{{< tdopen >}}
-DATA\_LAB ([ZIP]({{< baseurl >}}/resources/statadata)) (The Zip file contains 3 .raw files, 1 .do file, 20 .dta files, 1 .fix file, 2 .csv files, and 2 .txt files)
+{{< tdopen rowspan="2" >}}
+DATA\_LAB ({{% resource_link 737fadd0-a845-bbf5-3764-dc58290cf93e "ZIP" %}}) (The Zip file contains 3 .raw files, 1 .do file, 20 .dta files, 1 .fix file, 2 .csv files, and 2 .txt files)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +98,7 @@ DATA\_LAB ([ZIP]({{< baseurl >}}/resources/statadata)) (The Zip file contains 3 
 Lab 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_220s09_lab2_mar6))
+({{% resource_link 56672f7c-3435-9895-131b-09e1e73a1f35 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,10 +107,10 @@ Lab 2
 Lab 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_220s09_lab03_apr3))
+({{% resource_link 521dadf5-b77c-f97e-490f-8e230c72409d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-hedonic ([DTA]({{< baseurl >}}/resources/hedonic))
+hedonic ({{% resource_link 305e6940-ab74-566b-234e-dbf9b5f6ea0a "DTA" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,14 +119,14 @@ hedonic ([DTA]({{< baseurl >}}/resources/hedonic))
 Lab 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_220s09_lab04_apr24))
+({{% resource_link 6262216a-b7a7-4189-4d24-47ffb109829c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-nbawage ([DTA]({{< baseurl >}}/resources/nbawage))
+nbawage ({{% resource_link 7b40aa48-49f4-bc3d-2d11-74736b7a18f6 "DTA" %}})
 
-nbawage\_dofile ([DO](/courses/urban-studies-and-planning/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/labs/nbawage.do))
+nbawage\_dofile ({{% resource_link 2288cab9-dc3a-fa41-1a75-cf2191de94df "DO" %}})
 
 
 {{< tdclose >}}
