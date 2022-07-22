@@ -6,6 +6,7 @@ file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab activity on using the STATA data analysis and statistical software, modifying data, adding labels, creating new variables.
-

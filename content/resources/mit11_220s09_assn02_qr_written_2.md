@@ -8,6 +8,7 @@ file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Assignment to read a journal article reporting the results of a quantitative study on a planning, design, or policy topi and write a short essay summarizing and critiquing the paper, and posing questions, challenges, and recommendations for further inquiry.
-
