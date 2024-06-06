@@ -5,6 +5,7 @@ description: Assignment to read a journal article reporting the results of a qua
   and critiquing the paper, and posing questions, challenges, and recommendations
   for further inquiry.
 file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/7da0408d8a82e3e343df609d2ec5a253_MIT11_220s09_assn02_QR_Written_2.pdf
+file_size: 138191
 file_type: application/pdf
 learning_resource_types:
 - Assignments
