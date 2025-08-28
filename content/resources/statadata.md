@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Supporting data files for Computer Labs #1 and #2.'
-file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/737fadd0a845bbf53764dc58290cf93e_statadata.zip
+file: /ol-ocw-studio-app/courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/737fadd0a845bbf53764dc58290cf93e_statadata.zip
 file_size: 336991
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
