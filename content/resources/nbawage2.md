@@ -2,11 +2,11 @@
 content_type: resource
 description: "Supporting file for Computer Lab #4: STATA commands for a dataset containing\
   \ NBA players\u2019 wages and their personal characteristics."
-file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/2288cab9dc3afa411a75cf2191de94df_nbawage.do
+file: /ol-ocw-studio-app/courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/2288cab9dc3afa411a75cf2191de94df_nbawage.do
 file_size: 767
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

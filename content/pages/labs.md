@@ -4,7 +4,7 @@ description: This section provides the computer lab assignments of the course, s
   files, and information on computers and software, Stata data analysis and statistical
   software, the R programming language, and tutorials.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: b22eac7a-52c9-f8fa-4222-a9b565dbd459
