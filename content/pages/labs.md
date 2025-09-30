@@ -26,7 +26,7 @@ In order to encourage and reward this resourcefulness, creativity, and skills fo
 Stata
 -----
 
-For the past couple years, the Department of Urban Studies and Planning has used Stata in this class (before that it was SPSS). Stata provides a good package to learn on without sacrificing the more powerful tools required by advanced users. Nearly everything can be done either through pull-down menus and dialog boxes (helpful for beginners) or through the command line (good for scripting and advanced users who care about setting different options). Graphics and output are good, import in generally straightforward (with a few quirks around missing values). The package is well-documented and well-supported, two real strengths for beginners. (For more information, visit [Data Analysis and Statistical Software (PDF - 5.4MB)](http://www.stata.com/order/federal-supply-service/GS35F0108W-Rel15.pdf).)
+For the past couple years, the Department of Urban Studies and Planning has used Stata in this class (before that it was SPSS). Stata provides a good package to learn on without sacrificing the more powerful tools required by advanced users. Nearly everything can be done either through pull-down menus and dialog boxes (helpful for beginners) or through the command line (good for scripting and advanced users who care about setting different options). Graphics and output are good, import in generally straightforward (with a few quirks around missing values). The package is well-documented and well-supported, two real strengths for beginners. (For more information, visit {{% resource_link "c8e70c62-0a8a-4953-ac7d-86ebe0568e60" "Data Analysis and Statistical Software (PDF - 5.4MB)" %}}.)
 
 If you decide to use Stata, you will probably want to look at the online documentation, as well as the manual it comes with (Stata Corporation. _Getting Started with Stata for Windows_. Stata Press, 2007). For a more comprehensive introduction, try:
 
@@ -35,7 +35,7 @@ Acock, Alan C. _A Gentle Introduction to Stata_. College Station, TX: Stata Pres
 R
 -
 
-R is the open source version of the commercial S and S+ programming language used by many professional statisticians and applied scientists. It is available under the GNU license, with hundreds of additional packages and extensions for free download via the [CRAN Web site](http://cran.r-project.org/). It provides a fully-featured statistical package for data management and manipulation, statistical analysis, scripting, simulation, and graphing (the latter being a real strength). The interface is a little different if you are not used to using the command line for this sort of thing, although there are graphical user interfaces available as well ("GUIs"—windows with menus and that sort of thing).
+R is the open source version of the commercial S and S+ programming language used by many professional statisticians and applied scientists. It is available under the GNU license, with hundreds of additional packages and extensions for free download via the {{% resource_link "19a5f82f-a272-41f4-bdd0-56f41d6246ec" "CRAN Web site" %}}. It provides a fully-featured statistical package for data management and manipulation, statistical analysis, scripting, simulation, and graphing (the latter being a real strength). The interface is a little different if you are not used to using the command line for this sort of thing, although there are graphical user interfaces available as well ("GUIs"—windows with menus and that sort of thing).
 
 If you decide to use R, you will probably want to look at the online documentation. For a more thorough introduction, ideal for our context, look at:
 
@@ -56,11 +56,11 @@ In the same way that most of you would probably choke if asked to use Word to cr
 Tutorials
 ---------
 
-[Resources to help you learn and use Stata](https://www.stata.com/links/resources-for-learning-stata/) - UCLA Academic Technology Services maintains a very good site with tutorials, datasets, and other resources to help you learn Stata.
+{{% resource_link "6df6805e-4d8e-4dc8-a97c-8b8d7bc1497f" "Resources to help you learn and use Stata" %}} - UCLA Academic Technology Services maintains a very good site with tutorials, datasets, and other resources to help you learn Stata.
 
-[Carolina Population Center Stata Tutorial](http://www.cpc.unc.edu/research/tools/data_analysis/statatutorial) - An online tutorial with downloadable dataset to help you learn Stata. One nice thing about this tutorial (as opposed to the hundreds of others out there) is its attention to issues of data management (cleaning datasets, dealing with missing values, transforming data, subsets, renaming variables, etc.).
+{{% resource_link "868cf2f5-161b-4bf1-a7dc-8a18d6e51a97" "Carolina Population Center Stata Tutorial" %}} - An online tutorial with downloadable dataset to help you learn Stata. One nice thing about this tutorial (as opposed to the hundreds of others out there) is its attention to issues of data management (cleaning datasets, dealing with missing values, transforming data, subsets, renaming variables, etc.).
 
-[Using Excel for Statistical Data Analysis - Caveats](http://people.umass.edu/evagold/excel.html) \- This is a report from the UMass data center evaluating whether or not Excel is up to the task of statistical analysis (they conclude that it is not).
+{{% resource_link "dba82f73-665a-40e9-8dfd-b2c66b2d8fc7" "Using Excel for Statistical Data Analysis - Caveats" %}} \- This is a report from the UMass data center evaluating whether or not Excel is up to the task of statistical analysis (they conclude that it is not).
 
 Computer Labs
 -------------
