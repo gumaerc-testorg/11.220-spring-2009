@@ -103,13 +103,13 @@ What's in a number?; basic numeracy; measurement
 
 Hofstadter, D. "On Number Numbness." Chapter 6 in *Metamagical Themas: Questing for the Essence of Mind and Pattern*. New York City, NY: BasicBooks, 1985. ISBN: 9780465045662.
 
-Hodge, G. "[Use and Mis-use of Measurement Scales in City Planning](http://www.informaworld.com/smpp/content~db=all?content=10.1080/01944366308978048)." *J Am Plann Assoc* 29 (1963): 112-121.
+Hodge, G. "{{% resource_link "035b7c1f-d3b7-45d8-b5a6-7af2a1b0203d" "Use and Mis-use of Measurement Scales in City Planning" %}}." *J Am Plann Assoc* 29 (1963): 112-121.
 
 Zeisel, H. *Say It With Figures*. 6th ed. Harper & Row, 6th edition, chapter 3 1985. ISBN: 9780061819827.
 
 Diamond, J. "How Cats Survive Falls from New York Skyscrapers." *Nat Hist* 8 (1989): 20-26.
 
-"[On Landing Like a Cat: It Is a Fact](http://www.nytimes.com/1989/08/22/science/on-landing-like-a-cat-it-is-a-fact.html?sec=&spon=)." *New York Times*, August 22, 1989.
+"{{% resource_link "0c11e073-6d1a-415b-870d-905979c1ab8c" "On Landing Like a Cat: It Is a Fact" %}}." *New York Times*, August 22, 1989.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -131,7 +131,7 @@ The use of numbers in planning
 
 Innis, J. "Sagas of Three Indicators." Chapter 6 in *Knowledge and Public Policy: The Search for Meaningful Indicators*. New Brunswick, NJ: Transaction Publishers, 1995. ISBN: 9780887388101.
 
-Savas, E. S. "[The political Properties of Crystalline H2O: Planning for Snow Emergencies in New York](http://zimmer.csufresno.edu/~sasanr/Teaching-Material/MIS/Systems-Approach/NY-storm-systems-analysis.pdf)." *Management Science* 20 (1973):137-145.
+Savas, E. S. "{{% resource_link "445cc041-1d9c-4a57-8844-44476ed2934d" "The political Properties of Crystalline H2O: Planning for Snow Emergencies in New York" %}}." *Management Science* 20 (1973):137-145.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -149,7 +149,7 @@ Variables; samples and populations; measures of central tendency
 
 Abrahamse, A. F. "Counting the Homeless: Sampling Difficult Populations." Chapter 3 in *Public Policy and Statistics: Case Studies from RAND*. Edited by S. Morton and J. Rolph. New York City, NY: Springer, 2000. ISBN: 9780387987774.
 
-Chan, Sewell. "[Remembering a Snowstorm That Paralyzed the City](http://cityroom.blogs.nytimes.com/2009/02/10/remembering-a-snowstorm-that-paralyzed-the-city/?hp)." *New York Times*, February 10, 2009.
+Chan, Sewell. "{{% resource_link "fcb74a74-ae33-42a1-a250-5f736cf24ddf" "Remembering a Snowstorm That Paralyzed the City" %}}." *New York Times*, February 10, 2009.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -191,7 +191,7 @@ Exploratory data analysis and visualization
 
 Start reading \[Tufte\]
 
-Lewis, Michael. "[The No-Stats All-Star](http://www.nytimes.com/2009/02/15/magazine/15Battier-t.html?_r=1)." *New York Times,* February 13, 2009.
+Lewis, Michael. "{{% resource_link "24f62044-e334-488c-928d-c8625a2101a4" "The No-Stats All-Star" %}}." *New York Times,* February 13, 2009.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -227,7 +227,7 @@ Basic probability
 
 \[Meier\], chapters 7 and 8.
 
-Robinson, W. "[Ecological Correlations and the Behavior of Individuals](http://ije.oxfordjournals.org/cgi/content/extract/38/2/337)." *Am Sociol Rev* 15 (1950): 351-357.
+Robinson, W. "{{% resource_link "b7331a15-8e71-4209-ab72-45d543687c64" "Ecological Correlations and the Behavior of Individuals" %}}." *Am Sociol Rev* 15 (1950): 351-357.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -273,7 +273,7 @@ The idea of a statistical test; non-parametric tests
 
 \[Horwitz\], chapter 11.
 
-Zernike, Kate. "[Do Polls Lie About Race?](http://www.nytimes.com/2008/10/12/weekinreview/12zernike.html?partner=permalink&exprod=permalink)" *New York Times,* October 11, 2008.
+Zernike, Kate. "{{% resource_link "6fed53e9-7479-4ab2-bf4e-b7fed7b355ba" "Do Polls Lie About Race?" %}}" *New York Times,* October 11, 2008.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -433,7 +433,7 @@ Jencks, C. "The Politics of Income Measurement." Chapter 2 in *The Politics of N
 
 Myers, D. *Analysis with Local Census Data: Portraits of Change*. New York City, NY: Academic Press, 1992, chapters 2-3. ISBN: 9780125123082.
 
-MacDonald, H. "[The American Community Survey: Warmer (More Current), but Fuzzier (Less Precise) than the Decennial Census](http://www.informaworld.com/smpp/694478713-33710317/content~db=all~content=a787405763)." *J Am Plann Assoc* 72 (2006): 491-504.
+MacDonald, H. "{{% resource_link "1e5774a5-65b2-4f5e-9cb8-119dbd487a5e" "The American Community Survey: Warmer (More Current), but Fuzzier (Less Precise) than the Decennial Census" %}}." *J Am Plann Assoc* 72 (2006): 491-504.
 
 Monmonier, M. S. *How to Lie with Maps*. 2nd ed. Chicago, IL: University of Chicago Press, 1996, chapter 9. ISBN: 9780226534213.
 
@@ -461,7 +461,7 @@ Talking about money
 
 Mohring, H. "Land Values and the Measurement of Highway Benefits." *J Polit Econ* 69 (1961): 236-249.
 
-Muro, M. and R. Puentes. "Investing in a Better Future: A Review of the Fiscal and Competitive Advantages of Smarter Growth Development Patterns." Center on Urban and Metropolitan Policy, Brookings Institution, 2004. ([PDF](http://www.winwinpartner.com/_downloads/0304_BrookingsSmartGrowth.pdf))
+Muro, M. and R. Puentes. "Investing in a Better Future: A Review of the Fiscal and Competitive Advantages of Smarter Growth Development Patterns." Center on Urban and Metropolitan Policy, Brookings Institution, 2004. ({{% resource_link "4d653e9c-f61a-4b11-ad62-6926035f5c08" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -477,7 +477,7 @@ Decision trees, expected utility, cost-benefit analysis
 
 Dawes, R. M. *Rational Choice in an Uncertain World*. San Diego, CA: Harcourt Brace Jovanovich, 1988, chapters 2 and 6. ISBN: 9780155752153.
 
-[Blogging the Stimulus](http://www.newyorker.com/news/steve-coll/blogging-the-stimulus-bill), a blog by Steve Coll of *The New Yorker* on issues of public policy.
+{{% resource_link "7220bc27-ac09-4f4f-8f1a-a90f9ea1cab4" "Blogging the Stimulus" %}}, a blog by Steve Coll of *The New Yorker* on issues of public policy.
 
 {{< tdclose >}}{{< tdopen >}}
  
